@@ -1,0 +1,6 @@
+this is my super cool file, full of helpful things for you
+
+
+Lets talk about git:
+
+resource1(link)
